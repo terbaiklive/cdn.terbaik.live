@@ -1,4 +1,4 @@
-/* Meta Font ini diletakkan di antara tag <head> dan </head> */
+<!-- Meta Font ini diletakkan di antara tag <head> dan </head> -->
 
 <link rel="preload" href="/font/averia-serif-libre-regular.woff2" as="font" type="font/woff2" crossorigin> 
 <link rel="preload" href="/font/source-sans-pro-regular.woff2" as="font" type="font/woff2" crossorigin> 
