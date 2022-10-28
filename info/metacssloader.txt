@@ -1,2 +1,0 @@
-<link rel="preload" href="/css/file.css" as="style" onload="this.onload=null;this.rel='stylesheet'"> 
-<noscript><link rel="stylesheet" href="/css/file.css"></noscript> 
